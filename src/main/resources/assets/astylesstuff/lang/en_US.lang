@@ -1,0 +1,50 @@
+itemGroup.tabAStyles=AStyles Stuff
+
+item.astylesstuff.digger.name=Digger
+item.astylesstuff.bhog.name=BHoG
+item.astylesstuff.lhog.name=LHoG
+item.astylesstuff.swiftshot.name=Swift Shot
+item.astylesstuff.pokefish.name=Poke Fish
+
+tile.factoryGlass.name=Factory Glass
+tile.fertilizedDirt.name=Fertilized Dirt
+
+tile.stair.White.name=White Colored Stair
+tile.stair.Orange.name=Orange Colored Stair
+tile.stair.Magenta.name=Magenta Colored Stair
+tile.stair.LightBlue.name=Light Blue Colored Stair
+tile.stair.Yellow.name=Yellow Colored Stair
+tile.stair.Lime.name=Lime Colored Stair
+tile.stair.Pink.name=Pink Colored Stair
+tile.stair.Gray.name=Gray Colored Stair
+tile.stair.LightGray.name=Light Gray Colored Stair
+tile.stair.Cyan.name=Cyan Colored Stair
+tile.stair.Purple.name=Purple Colored Stair
+tile.stair.Blue.name=Blue Colored Stair
+tile.stair.Brown.name=Brown Colored Stair
+tile.stair.Green.name=Green Colored Stair
+tile.stair.Red.name=Red Colored Stair
+tile.stair.Black.name=Black Colored Stair
+
+WhiteColoredStone.name=White Colored Stone
+OrangeColoredStone.name=Orange Colored Stone
+MagentaColoredStone.name=Magenta Colored Stone
+LightBlueColoredStone.name=Light Blue Colored Stone
+YellowColoredStone.name=Yellow Colored Stone
+LimeColoredStone.name=Lime Colored Stone
+PinkColoredStone.name=Pink Colored Stone
+GrayColoredStone.name=Gray Colored Stone
+LightGrayColoredStone.name=Light Gray Colored Stone
+CyanColoredStone.name=Cyan Colored Stone
+PurpleColoredStone.name=Purple Colored Stone
+BlueColoredStone.name=Blue Colored Stone
+BrownColoredStone.name=Brown Colored Stone
+GreenColoredStone.name=Green Colored Stone
+RedColoredStone.name=Red Colored Stone
+BlackColoredStone.name=Black Colored Stone
+
+item.dye.seed.name=AStyles Dye Seeds
+item.dye.plant.name=AStyles Dye Parts
+
+tooltip.dye.seed=Stick it in the ground
+tooltip.dye.part=Put some together

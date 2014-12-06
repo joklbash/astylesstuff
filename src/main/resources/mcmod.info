@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AStylesStuff",
+  "name": "AStyles Stuff",
+  "description": "AStyles Stuff.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JoklBash"],
+  "credits": "Jokl",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
